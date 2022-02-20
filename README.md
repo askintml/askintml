@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--![AskinTemel](https://user-images.githubusercontent.com/60196167/154837011-0ffac961-d382-4da5-a5ff-f17f92fbb0c3.png)
-
+![AskinTemel](https://user-images.githubusercontent.com/60196167/154837011-0ffac961-d382-4da5-a5ff-f17f92fbb0c3.png)
+<!--
 **askintml/askintml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
